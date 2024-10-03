@@ -19,7 +19,7 @@ namespace Tyuiu.DmiterkoKD.Sprint1.Task6.V4.Lib
             }
 
 
-            string result = String.Join(", ", wordsWithNn);
+            string result = String.Join(" ", wordsWithNn);
 
             return result;
         }
